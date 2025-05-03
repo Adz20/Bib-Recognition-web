@@ -1,0 +1,8 @@
+train: D:/Semester 6/Visual Komputer/bib-recognition-main/train/images
+val: D:/Semester 6/Visual Komputer/bib-recognition-main/valid/images
+test: D:/Semester 6/Visual Komputer/bib-recognition-main/test/images
+
+# Classes
+nc: 1                        
+names:
+  0: "number" 
